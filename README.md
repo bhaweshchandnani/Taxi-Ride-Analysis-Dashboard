@@ -14,7 +14,8 @@ To transform raw taxi ride data into actionable business insights by analyzing r
 
 ## Dataset Information
 * Dataset Type: Synthetic Taxi Ride Dataset
-* Total Records: ~8,000
+* Initial Total Records: ~9,000
+* Clean Dataset Records used for Analysis: ~8600
 * Total Columns: 14
 * Ride Types: Rapido Bike, Uber Go, Uber Premier, etc.
 * Cities Included: Delhi, Mumbai, Pune, Bangalore and others
